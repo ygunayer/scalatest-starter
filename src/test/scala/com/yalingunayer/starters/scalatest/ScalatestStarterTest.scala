@@ -1,4 +1,4 @@
-package com.yalingunayer.starters.scalatest;
+package com.yalingunayer.starters.scalatest
 
 import org.scalatest.FlatSpec
 
